@@ -1,0 +1,231 @@
+{
+    "centers": [
+        {
+            "center_id": 687657,
+            "name": "Saval SC",
+            "address": "At Post Saval Taluka Baramati",
+            "state_name": "Maharashtra",
+            "district_name": "Pune",
+            "block_name": "Baramati",
+            "pincode": 413102,
+            "lat": 18,
+            "long": 74,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "a1da3bcd-f212-4ee6-9d48-45c082c70cc0",
+                    "date": "24-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "f77d8988-75b1-4826-a3e0-05973f797d22",
+                    "date": "27-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "46571a19-6d2c-426e-a8b3-b1a1d27117c8",
+                    "date": "28-05-2021",
+                    "available_capacity": 0,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 0
+                },
+                {
+                    "session_id": "08469614-3485-427a-bc40-064be1cda704",
+                    "date": "29-05-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 1
+                }
+            ]
+        },
+        {
+            "center_id": 690468,
+            "name": "Sastewadi Sc",
+            "address": "Ap Sastewadi Tal Baramati Dist Pune",
+            "state_name": "Maharashtra",
+            "district_name": "Pune",
+            "block_name": "Baramati",
+            "pincode": 413102,
+            "lat": 0,
+            "long": 0,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5dd00c2c-487c-43cf-8fd7-374714244c5a",
+                    "date": "24-05-2021",
+                    "available_capacity": 1,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 1
+                }
+            ]
+        },
+        {
+            "center_id": 581227,
+            "name": "Sahyadri Hospital Hadapsar",
+            "address": "Hadapsar Pune",
+            "state_name": "Maharashtra",
+            "district_name": "Pune",
+            "block_name": "Haveli",
+            "pincode": 411028,
+            "lat": 18,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "16:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "2b7baaf5-373f-43c7-b63a-4c0dfdb07cd9",
+                    "date": "24-05-2021",
+                    "available_capacity": 50,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 50
+                },
+                {
+                    "session_id": "69317057-0d80-47dc-b2e2-2744c924e4e7",
+                    "date": "24-05-2021",
+                    "available_capacity": 100,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-04:30PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 100
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "900"
+                }
+            ]
+        },
+        {
+            "center_id": 610117,
+            "name": "SURYA SAYADRI HOSPITAL",
+            "address": "KASBA PETHPUNE",
+            "state_name": "Maharashtra",
+            "district_name": "Pune",
+            "block_name": "Haveli",
+            "pincode": 411011,
+            "lat": 18,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Paid",
+            "sessions": [
+                {
+                    "session_id": "8124b6df-dd27-49ba-a5b3-33ca2b424a28",
+                    "date": "25-05-2021",
+                    "available_capacity": 5,
+                    "min_age_limit": 18,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 5
+                }
+            ],
+            "vaccine_fees": [
+                {
+                    "vaccine": "COVISHIELD",
+                    "fee": "250"
+                }
+            ]
+        },
+        {
+            "center_id": 561749,
+            "name": "Primary Health Center Maale",
+            "address": "Maale PHC Mulshi-Paud Rd, Valane, Maharashtra 412108",
+            "state_name": "Maharashtra",
+            "district_name": "Pune",
+            "block_name": "Mulshi",
+            "pincode": 412108,
+            "lat": 18,
+            "long": 73,
+            "from": "09:00:00",
+            "to": "18:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3464780d-df42-4431-97e8-ab04fb25c1d2",
+                    "date": "27-05-2021",
+                    "available_capacity": 21,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-11:00AM",
+                        "11:00AM-01:00PM",
+                        "01:00PM-03:00PM",
+                        "03:00PM-06:00PM"
+                    ],
+                    "available_capacity_dose1": 0,
+                    "available_capacity_dose2": 21
+                }
+            ]
+        }
+    ]
+}
